@@ -11,6 +11,8 @@ public class OddPositon {
         for (int i = 0; i < inputArray.length; i++) {
             if (i % 2 != 0) {
                 System.out.println(inputArray[i]);
+
+
             }
         }
     }
